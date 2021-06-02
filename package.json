@@ -1,0 +1,22 @@
+{
+  "name": "mern-tutorial",
+  "version": "1.0.0",
+  "description": "Basic of MERN stack Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JEET0291/mern-tutorials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JEET0291/mern-tutorials/issues"
+  },
+  "homepage": "https://github.com/JEET0291/mern-tutorials#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
